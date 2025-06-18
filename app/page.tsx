@@ -4,7 +4,7 @@ import Favorite from "./components/Favorite";
 export default function Page() {
 	const favorites = [
 		{
-			name: "アンナチュラル",
+			// name: "アンナチュラル",あああああ
 			src: "/image/20250430_142945959_iOS.jpg",
 			alt: "アンナチュラルの画像",
 		},
